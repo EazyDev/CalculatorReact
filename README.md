@@ -8,12 +8,13 @@ To install and run, the following scripts has to be invoked.
 
 In the project directory, run:
 
-### `npm start`
-in both root directory and calculator2API to correctly run the application <br>
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### `npm install`
 in the root directory and inside calculator2API
+
+### `npm start`
+in both root directory and calculator2API to correctly run the application <br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
