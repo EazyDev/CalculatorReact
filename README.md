@@ -16,5 +16,5 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ### `npm install`
-in the root directory and inside calculatorAPI
+in the root directory and inside calculator2API
 
