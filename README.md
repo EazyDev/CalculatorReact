@@ -14,7 +14,7 @@ In the project directory, run:
 in the root directory and inside calculator2API
 
 ### `npm start`
-in both root directory and calculator2API to correctly run the application <br>
+in both root directory and inside calculator2API to run the application <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
