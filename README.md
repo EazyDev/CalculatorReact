@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Important
+## Important
 Node modules have been removed. 
 
 ## Available Scripts
