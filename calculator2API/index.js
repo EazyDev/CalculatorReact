@@ -22,7 +22,7 @@ app.use((req,res,next) => {
 
 
 
-mongoose.connect("mongodb+srv://Salman:qwerty123@victorcluster-6cqju.mongodb.net/test?retryWrites=true",function(err){
+mongoose.connect("",function(err){
     if(err){
         console.log(err);
     }
